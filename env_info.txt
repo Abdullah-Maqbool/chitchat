@@ -1,0 +1,5 @@
+MONGO_CONN_STR => MongoDB connection string
+PORT => PORT for server
+NODEMAILER_AUTH_USER => Email for Nodemailer Auth.
+NODEMAILER_AUTH_PASS => Pass key for Nodemailer Auth
+SECRET_KEY => Hash Salt (Hex) to encrypt jwt
